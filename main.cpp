@@ -10,7 +10,7 @@ int main(int argc, char** argv) {
 
     // Boucle qui ajoute 5 aux valeurs.
     for(int i=0 ; i<5 ; i++) {
-        *(pointeur+i) = *(pointeur+i) + 5;
+        *(pointeur+i) = *(pointeur+i) + 25;
     }
 
     // Boucle qui affiche.
