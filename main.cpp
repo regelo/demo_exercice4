@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main(int argc, char** argv) {
+	// Début du code
     int entiers[] = {0, 5, 10, 15, 20};
     int* pointeur = entiers;
 
